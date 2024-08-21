@@ -62,11 +62,11 @@
     background-color: hsl(0, 0%, 100%);
     padding: 1rem;
     min-width: 375px;
-    max-width: 42rem;
+    max-width:52rem;
     border-radius: 1rem;
   }
 .omelette-pic {
-    width: 40rem;
+    width: 50rem;
     border-radius: 0.7rem;
 }
 
@@ -84,8 +84,10 @@ h2 {
     font-size: 1.7rem;
 }
 
-h3 {
-    color: hsl(332, 51%, 32%);
+.preparation-time h2 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  color: hsl(332, 51%, 32%);
 }
 
 .preparation-time {
